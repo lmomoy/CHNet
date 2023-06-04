@@ -2,5 +2,5 @@
 
 <p align="center">
   <img src="demo.gif" alt="example input output gif" width="1920" />
-  ![PDF](dot.pdf)
+  <img src="dot.jpg" alt="example input output gif" width="1000" />
 </p>
