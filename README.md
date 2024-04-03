@@ -1,4 +1,4 @@
-# A Concise but Effective Network for Image Guided Depth Completion in Autonomous Driving
+# A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving
 
 ## Demo
 <p align="center">
