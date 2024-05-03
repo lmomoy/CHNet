@@ -1,5 +1,5 @@
 # A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving
-This repository is the implementation of our paper [A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving]().
+This repository is the implementation of our paper [A Concise but High-performing Network for Image Guided Depth Completion in Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S0950705124005112).
 
 ## Demo
 <p align="center">
