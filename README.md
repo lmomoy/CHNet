@@ -69,3 +69,17 @@ Many thanks to these excellent opensource projects
 * [PENet](https://github.com/JUGGHM/PENet_ICRA2021)
 * [GuideNet](https://github.com/kakaxi314/GuideNet)
 * [self-supervised-depth-completion](https://github.com/fangchangma/self-supervised-depth-completion)
+
+## Citation
+Please consider citing my work as follows if it is helpful for you.
+```
+@article{liu2024concise,
+  title={A concise but high-performing network for image guided depth completion in autonomous driving},
+  author={Liu, Moyun and Chen, Bing and Chen, Youping and Xie, Jingming and Yao, Lei and Zhang, Yang and Zhou, Joey Tianyi},
+  journal={Knowledge-Based Systems},
+  pages={111877},
+  year={2024},
+  publisher={Elsevier}
+}
+```
+
