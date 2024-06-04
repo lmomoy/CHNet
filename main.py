@@ -78,7 +78,7 @@ parser.add_argument('--resume',
                     metavar='PATH',
                     help='path to latest checkpoint (default: none)')
 parser.add_argument('--data-folder',
-                    default='../data',
+                    default='../../data',
                     type=str,
                     metavar='PATH',
                     help='data folder (default: none)')
@@ -210,7 +210,7 @@ def iterate(mode, args, loader, model, optimizer, logger, epoch):
                 optimizer.step()
             print("loss:", loss, " epoch:", epoch, " ", i, "/", len(loader))
         # print(mode)
-        if mode == "test_completion" or mode == "val":
+        if mode == "test_completion":
             str_i = str(i)
             path_i = str_i.zfill(10) + '.png'
             path = os.path.join(args.data_folder_save, path_i)

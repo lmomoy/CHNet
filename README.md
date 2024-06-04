@@ -56,12 +56,12 @@ python main.py -b 8 (8 is a example of batch size)
 ## Evalution
 You can evaluate the CHNet through the following command:
 ```
-python main.py -b 1 -n e --evaluate [checkpoint-path]
+python main.py -b 1 --evaluate [checkpoint-path]
 ```
 ## Test
 You can test the CHNet through the following command for online submission:
 ```
-python main.py -b 1 -n e --evaluate [checkpoint-path] --test
+python main.py -b 1 --evaluate [checkpoint-path] --test
 ```
 
 ## Acknowledgement
